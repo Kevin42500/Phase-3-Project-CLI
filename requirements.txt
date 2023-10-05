@@ -1,0 +1,19 @@
+# Add your project-specific dependencies below
+
+# GUI Library (Tkinter)
+tkinter
+
+# Data Visualization (Matplotlib for charts)
+matplotlib
+
+# Database (SQLite)
+sqlite3
+
+# Password Hashing (bcrypt for secure password storage)
+bcrypt
+
+# Date Validation (optional, if needed)
+python-dateutil
+
+# Web Framework (optional, if you plan to develop a web-based interface)
+Flask
